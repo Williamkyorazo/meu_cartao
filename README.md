@@ -1,6 +1,9 @@
-# meu_cartao
+Mi Card App
 
-A new Flutter project.
+My first app here in Github made in Flutter.
+Thanks Angela Yu for the best didatic teaching!
+
+![](images/Screenshot.png)
 
 ## Getting Started
 
