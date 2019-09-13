@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+ 
+  call_number: ^0.0.1
 
   cupertino_icons: ^0.1.2
 
@@ -32,4 +34,4 @@ flutter:
 
     - family: Source Sans Pro
       fonts:
-        - asset: fonts/SourceSansPro-Regular.ttf      
+        - asset: fonts/SourceSansPro-Regular.ttf
